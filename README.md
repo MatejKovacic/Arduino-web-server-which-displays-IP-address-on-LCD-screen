@@ -1,4 +1,4 @@
-# Arduino Nabno web server which displays IP address on LCD screen
+# Arduino Nano web server which displays IP address on LCD screen
 
 Code and wiring instructions for Arduino Nano based web server, which displays its IP address on 16x2 LCD display.
 
@@ -19,6 +19,8 @@ You will also need breadboard, some wires and ethernet cable.
 2. When it gets IP address, IP address is displayed on LCD display.
 3. Arduino Nano is then running web server on that IP address.
 4. When client connects to webserver, it gets simple website showing values of analog readings from A0 and A1. Analog readings are from two MQ-x gas sensors.
+
+![Arduino Nano web server with LCD display](Arduino_Nano_web_server_LCD.jpg)
 
 # Wiring instructions
 
